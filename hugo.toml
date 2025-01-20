@@ -1,0 +1,4 @@
+baseURL = 'https://esihaj.github.io/cook'
+languageCode = 'en-us'
+title = 'Cook Book'
+theme = 'cuisine-book'
