@@ -1,4 +1,4 @@
-baseURL = 'https://esihaj.github.io/cook'
+baseURL = 'https://esihaj.github.io/cookbook'
 languageCode = 'en-us'
 title = 'Cook Book'
 theme = 'cuisine-book'
