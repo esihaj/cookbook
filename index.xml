@@ -1,1 +1,19 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Cook Book</title><link>https://esihaj.github.io/cookbook/</link><description>Recent content on Cook Book</description><generator>Hugo</generator><language>en-us</language><lastBuildDate>Mon, 20 Jan 2025 05:01:47 +0000</lastBuildDate><atom:link href="https://esihaj.github.io/cookbook/index.xml" rel="self" type="application/rss+xml"/><item><title>001 Hello</title><link>https://esihaj.github.io/cookbook/posts/001-hello/</link><pubDate>Mon, 20 Jan 2025 05:01:47 +0000</pubDate><guid>https://esihaj.github.io/cookbook/posts/001-hello/</guid><description>&lt;p>Hello World!&lt;/p></description></item></channel></rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Cook Book</title><link>https://esihaj.github.io/cookbook/</link><description>Recent content on Cook Book</description><generator>Hugo</generator><language>en-us</language><lastBuildDate>Mon, 20 Jan 2025 05:16:39 +0000</lastBuildDate><atom:link href="https://esihaj.github.io/cookbook/index.xml" rel="self" type="application/rss+xml"/><item><title>Wish List</title><link>https://esihaj.github.io/cookbook/posts/wish-list/</link><pubDate>Mon, 20 Jan 2025 05:16:39 +0000</pubDate><guid>https://esihaj.github.io/cookbook/posts/wish-list/</guid><description>&lt;h1 id="wish-list-to-cook">Wish List: To Cook&lt;/h1>
+&lt;ul>
+&lt;li>&lt;strong>Risotto&lt;/strong>&lt;/li>
+&lt;li>&lt;strong>Something French&lt;/strong>
+&lt;ul>
+&lt;li>Maybe Beef Bourguignon&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;li>&lt;strong>Roasted Tomato + ?&lt;/strong>
+&lt;ul>
+&lt;li>Perhaps with cheese, baked in the oven&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;li>&lt;strong>Fresh Fish&lt;/strong>
+&lt;ul>
+&lt;li>Sea bass?&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;/ul></description></item><item><title>001 Hello</title><link>https://esihaj.github.io/cookbook/posts/001-hello/</link><pubDate>Mon, 20 Jan 2025 05:01:47 +0000</pubDate><guid>https://esihaj.github.io/cookbook/posts/001-hello/</guid><description>&lt;p>Hello World!&lt;/p></description></item></channel></rss>
